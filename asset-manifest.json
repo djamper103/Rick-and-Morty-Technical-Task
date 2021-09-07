@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Rick-and-Morty-Technical-Task/static/css/main.0f300ab5.chunk.css",
+    "main.js": "/Rick-and-Morty-Technical-Task/static/js/main.a3b91a39.chunk.js",
+    "main.js.map": "/Rick-and-Morty-Technical-Task/static/js/main.a3b91a39.chunk.js.map",
+    "runtime-main.js": "/Rick-and-Morty-Technical-Task/static/js/runtime-main.4e9d11a9.js",
+    "runtime-main.js.map": "/Rick-and-Morty-Technical-Task/static/js/runtime-main.4e9d11a9.js.map",
+    "static/js/2.e52d00f2.chunk.js": "/Rick-and-Morty-Technical-Task/static/js/2.e52d00f2.chunk.js",
+    "static/js/2.e52d00f2.chunk.js.map": "/Rick-and-Morty-Technical-Task/static/js/2.e52d00f2.chunk.js.map",
+    "static/js/3.5d8278a0.chunk.js": "/Rick-and-Morty-Technical-Task/static/js/3.5d8278a0.chunk.js",
+    "static/js/3.5d8278a0.chunk.js.map": "/Rick-and-Morty-Technical-Task/static/js/3.5d8278a0.chunk.js.map",
+    "index.html": "/Rick-and-Morty-Technical-Task/index.html",
+    "static/css/main.0f300ab5.chunk.css.map": "/Rick-and-Morty-Technical-Task/static/css/main.0f300ab5.chunk.css.map",
+    "static/js/2.e52d00f2.chunk.js.LICENSE.txt": "/Rick-and-Morty-Technical-Task/static/js/2.e52d00f2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4e9d11a9.js",
+    "static/js/2.e52d00f2.chunk.js",
+    "static/css/main.0f300ab5.chunk.css",
+    "static/js/main.a3b91a39.chunk.js"
+  ]
+}
